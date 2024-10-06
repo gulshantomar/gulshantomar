@@ -1,10 +1,6 @@
-<!-- **mreshank/mreshank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-<!-- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gulshantomar&label=Profile%20Views&color=11&pretty=false" />
-</a> -->
 
 ## [![](https://visitcount.itsvg.in/api?id=gulshantomar&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
@@ -25,14 +21,42 @@
     </em>
 </p>
 
-
-
-## 
-<img align = 'left' src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"> <h2>   Let's connect ♥ </h2> </br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gulshantomar_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imGtomar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gulshantomar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@gulshantomar18) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmz0KSVA40atJqEoKAkFulw)
-
 </br>
+<div align="center"> 
+
+<h2 align="center">Leetcode Info<h2>  
+<!--<p align="center">
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>-->
+<p align="center"> 
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/gulshantomar?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+
+##
+<img align = 'left' src="https://media1.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif?cid=ecf05e47wewxviqsc0c4ttaghuas9e12h6v5mqwnwd8uunbv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <h2 align="start">  Github Status ╞╕ </h2> </br>
+
+<h2 </h2>
+
+<div align="center" >
+  <div>
+    <a href="https://github.com/gulshantomar" title="Go to Source">
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=gulshantomar&show_icons=true&theme=transparent&hide_border=true&hide_rank=false" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/gulshantomar" title="Go to Source">
+      <img width=400 src="https://streak-stats.demolab.com/?user=gulshantomar&theme=transparent&hide_border=true" />
+    </a>
+  </div>
+</div> 
+<br/>
+ 
+
+<br/><br/>
+
 
 
 
@@ -55,27 +79,18 @@
 </br>
 
 
-<!--   
-##
-<img align = 'left' src="https://media1.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif?cid=ecf05e47wewxviqsc0c4ttaghuas9e12h6v5mqwnwd8uunbv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <h2 align="start">  Github Status ╞╕ </h2> </br>
-
-<h2 </h2>
-
-<div align="center" >
-  <div>
-    <a href="https://github.com/mreshank" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=mreshank&show_icons=true&theme=transparent&hide_border=true&hide_rank=false" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/mreshank" title="Go to Source">
-      <img width=400 src="https://streak-stats.demolab.com/?user=mreshank&theme=transparent&hide_border=true" />
-    </a>
-  </div>
-</div>   -->
 
 
 
+
+## 
+<img align = 'left' src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"> <h2>   Let's connect ♥ </h2> </br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gulshantomar_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imGtomar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gulshantomar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@gulshantomar18) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmz0KSVA40atJqEoKAkFulw)
+
+</br>
 <!----------------------------------{ reference links }--------------------------------->
 
-[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=mreshank&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=gulshantomar&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 [langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?usermreshank=&theme=dark&hide_border=false#gh-light-mode-only

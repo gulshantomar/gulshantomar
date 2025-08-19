@@ -1,96 +1,63 @@
+ <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+<!-- <h1 align="center"><a href="https://gulshantomar.dev/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Gulshan Tomar" /></a></h1> -->
 
+  <a href="https://gulshantomar.dev/">
+    <img
+      alt="Gulshan Tomar"
+      src="https://media.licdn.com/dms/image/v2/D5616AQH10AYdlncWoQ/profile-displaybackgroundimage-shrink_350_1400/B56Zhw0yEvHMAc-/0/1754239542710?e=1758758400&v=beta&t=V1lncq4TZTfrjr0rWIUbt-EDq3xCaxVyDPSRUd-bISc"
+      width="100%"
+    />
+  </a>
 
-## [![](https://visitcount.itsvg.in/api?id=gulshantomar&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://x.com/gulshantomar_" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Gulshan Tomar | Twitter" ></img></a>
+<a href="https://linkedin.com/in/gulshantomar" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Gulshan Tomar | Linkedin" /></a>
+<a href="https://github.com/gulshantomar" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Gulshan Tomar | GitHub" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://gulshantomar.dev/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
+<h3>A Full Stack Engineer</h3>
 
-<!-- ## [![](https://visitcount.itsvg.in/api?id=mreshank&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
- <img align = 'left' src="https://media1.giphy.com/media/INWvHtY18ElyvtEdS2/200w.webp?cid=ecf05e4791xr3aiioli373i3p495euquk08zcpl7zzipcp00&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"> <h2> Hi, I'm <strong> Gulshan Tomar </strong>. ☺</h2> <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
-<img align = 'right' src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/200w.webp?cid=ecf05e47ftec81a6c31a10x5cz784x46nc9jrms0zxtsrd6v&ep=v1_gifs_related&rid=200w.webp&ct=s" width="275" style="border-radius: 50; transform: scaleX(-1);"></br>
+- 🔭 I'm currently working on [shgconnect.vercel.app](https://shgconnect.vercel.app)
 
-<p>
-    <em>
-        > B.Tech Computer Science Engineering student, </br>
-           -> at <a href="https://www.kiet.edu/"> Krishna Institute of Engineering & Technology </a>
-        <img src="https://i.giphy.com/5HPUYijRDK3gRpMKXw.webp" width="20">
-        </br></br>
-        > Coding Enthusiast, doing Web Dev right now . . .
-        <img src="https://i.giphy.com/hS42TuYYnANLFR9IRQ.webp" width="20"> 
-        </br></br>
-    </em>
-</p>
+- 🌱 I'm currently learning **DevOps**
 
-</br>
-<div align="center"> 
+- 👨‍💻 All of my projects are available at [https://gulshantomar.dev/projects](https://gulshantomar.dev/projects)
 
-<h2 align="center">Leetcode Info<h2>  
-<!--<p align="center">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>-->
-<p align="center"> 
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/gulshantomar?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+<!-- - 📝 I regularly write articles on [gulshantomar.dev/blog](https://gulshantomar.dev/blog) -->
 
+- 💬 Ask me about **next.js, typescript, framer motion, node.js**
 
-##
-<img align = 'left' src="https://media1.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif?cid=ecf05e47wewxviqsc0c4ttaghuas9e12h6v5mqwnwd8uunbv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <h2 align="start">  Github Status ╞╕ </h2> </br>
+- 📫 How to reach me **<hello@gulshantomar.in>**
 
-<h2 </h2>
-
-<div align="center" >
-  <div>
-    <a href="https://github.com/gulshantomar" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=gulshantomar&show_icons=true&theme=transparent&hide_border=true&hide_rank=false" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/gulshantomar" title="Go to Source">
-      <img width=400 src="https://streak-stats.demolab.com/?user=gulshantomar&theme=transparent&hide_border=true" />
-    </a>
-  </div>
-</div> 
 <br/>
- 
 
-<br/><br/>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+<p align="left">
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://gulshantomar.dev)
 
+</p>
 
-##
-<img align = 'left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d0cXJmMzB3bG4weWZxOGRhcmd0MWYyc2JjNW9vejFyZXZlN3pvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> <h2>   Tech Stack ? </h2> </br>
+<br/>
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: space-evenly;">
-    <div align="center" style="display: flex; align-items: center; justify-content: center; justify-content: space-evenly;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="67" height="67" />
-    </div>
-    <br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)        ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java)         ![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)         ![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)         ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)         ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)         ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)         ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)         ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)         ![firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)         ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</br>
+<div align=center>
+  <span><a href="https://gulshantomar.dev"><img width=350 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gulshantomar&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
+  <span><a href="https://gulshantomar.dev"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=gulshantomar&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
+  <span><a href="https://gulshantomar.dev"><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gulshantomar&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 
-</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
 
-
-
-
-
-## 
-<img align = 'left' src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"> <h2>   Let's connect ♥ </h2> </br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gulshantomar_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imGtomar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gulshantomar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@gulshantomar18) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmz0KSVA40atJqEoKAkFulw)
-
-</br>
-<!----------------------------------{ reference links }--------------------------------->
-
-[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=gulshantomar&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
-[streaks]: https://github-readme-streak-stats.herokuapp.com/?usermreshank=&theme=dark&hide_border=false#gh-light-mode-only
+  <div align="center">
+  <a href="https://github.com/gulshantomar/gulshantomar"><img alt="gulshantomar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gulshantomar&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+  </a>
+  </div>

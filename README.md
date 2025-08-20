@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/gulshantomar" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Gulshan Tomar | Linkedin" /></a>
 <a href="https://github.com/gulshantomar" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Gulshan Tomar | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://gulshantomar.dev/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<a href="https://gulshantomar.dev/" target="_blank">
 
 <h3>A Full Stack Engineer</h3>
 

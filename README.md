@@ -37,7 +37,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://gulshantomar.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,mongodb,mysql,postman,vscode,vercel,vite,bash,linux,md,cloudflare,java,c,py)](https://gulshantomar.dev)
 
 </p>
 

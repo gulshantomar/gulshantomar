@@ -5,7 +5,7 @@
   <a href="https://gulshantomar.dev/">
     <img
       alt="Gulshan Tomar"
-      src="https://media.licdn.com/dms/image/v2/D5616AQH10AYdlncWoQ/profile-displaybackgroundimage-shrink_350_1400/B56Zhw0yEvHMAc-/0/1754239542710?e=1764201600&v=beta&t=1VlLY8kZqIZwAFNyphVPaaWVi3Xrxw-sFTEXiGzMZ7M"
+      src="https://i.ibb.co/YFMYcVJ2/1754239542710.jpg"
       width="100%"
     />
   </a>

@@ -1,8 +1,8 @@
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-<!-- <h1 align="center"><a href="https://gulshantomar.dev/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Gulshan Tomar" /></a></h1> -->
+<!-- <h1 align="center"><a href="https://gulshantomar.vercel.app/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Gulshan Tomar" /></a></h1> -->
 
-  <a href="https://gulshantomar.dev/">
+  <a href="https://gulshantomar.vercel.app/">
     <img
       alt="Gulshan Tomar"
       src="https://i.ibb.co/YFMYcVJ2/1754239542710.jpg"
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/gulshantomar" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Gulshan Tomar | Linkedin" /></a>
 <a href="https://github.com/gulshantomar" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Gulshan Tomar | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://gulshantomar.dev/" target="_blank">
+<a href="https://gulshantomar.vercel.app/" target="_blank">
 
 <h3>A Full Stack Engineer</h3>
 
@@ -22,9 +22,9 @@
 
 - 🌱 I'm currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://gulshantomar.dev/projects](https://gulshantomar.dev/projects)
+- 👨‍💻 All of my projects are available at [https://gulshantomar.vercel.app/projects](https://gulshantomar.vercel.app/projects)
 
-<!-- - 📝 I regularly write articles on [gulshantomar.dev/blog](https://gulshantomar.dev/blog) -->
+<!-- - 📝 I regularly write articles on [gulshantomar.dev/blog](https://gulshantomar.vercel.app/blog) -->
 
 - 💬 Ask me about **next.js, typescript, framer motion, node.js**
 
@@ -37,7 +37,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,mongodb,mysql,postman,vscode,vercel,vite,bash,linux,md,cloudflare,java,c,py)](https://gulshantomar.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,mongodb,mysql,postman,vscode,vercel,vite,bash,linux,md,cloudflare,java,c,py)](https://gulshantomar.vercel.app)
 
 </p>
 
@@ -47,9 +47,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
-  <span><a href="https://gulshantomar.dev"><img width=350 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gulshantomar&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
-  <span><a href="https://gulshantomar.dev"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=gulshantomar&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
-  <span><a href="https://gulshantomar.dev"><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gulshantomar&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
+  <span><a href="https://gulshantomar.vercel.app"><img width=350 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gulshantomar&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
+  <span><a href="https://gulshantomar.vercel.app"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=gulshantomar&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
+  <span><a href="https://gulshantomar.vercel.app"><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gulshantomar&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 
 
